@@ -6,6 +6,7 @@
 <h1>PLANNED</h1>
 
 <ol>
-  <li>chaneg color</li>
+  <li>chaneg color + add button</li>
   <li>time change (acceleration)</li>
+  <li>add button 'start'</li>
 </ol>
