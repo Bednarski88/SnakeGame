@@ -5,7 +5,7 @@
 <hr>
 
 <h1>PLANNED</h1>
-<hr>
+
 <ol>
   <li>chaneg color</li>
   <li>time change (acceleration)</li>
